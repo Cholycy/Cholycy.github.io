@@ -1,2 +1,2 @@
 # Cholycy.github.io
-Blog
+Blog link: https://cholycy.github.io/ (under development)
